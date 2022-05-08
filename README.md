@@ -50,21 +50,3 @@ All the results reported in the literature were produced using the following ver
    
 </ul>
 
-
-**Written by**<br>
-**Md. Kamrul Hasan**  <br>
-M.Sc. in Medical Imaging and Applications (MAIA)(https://maiamaster.udg.edu/ ) <br>
-Assistant Professor <br>
-Department of Electrical and Electronic Engineering (EEE) <br>
-Khulna University of Engineering & Technology (KUET) <br>
-Khulna-9203, Bangladesh <br>
-E-mail: kamruleeekuet@gmail.com or m.k.hasan@eee.kuet.ac.bd<br>
-G.Scholar: https://scholar.google.com/citations?user=36WXELIAAAAJ&hl=en
-
-
-
-**Md. Ashraful Alam**  <br>
-Undergraduate student <br>
-Department of Electrical and Electronic Engineering (EEE) <br>
-Khulna University of Engineering & Technology (KUET) <br>
-Khulna-9203, Bangladesh <br>
